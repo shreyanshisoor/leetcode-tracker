@@ -1,4 +1,4 @@
-# 7. Intersection Of Two Arrays
+# 349. Intersection Of Two Arrays
 
 **Platform:** LeetCode  
 **Difficulty:** Easy
