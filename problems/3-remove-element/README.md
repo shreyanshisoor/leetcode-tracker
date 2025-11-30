@@ -1,4 +1,4 @@
-# 2. Add Two Numbers
+# 3. Remove Element
 
 **Platform:** LeetCode  
 **Difficulty:** Easy
