@@ -1,4 +1,4 @@
-# 9. Max Consecutive Ones
+# 485. Max Consecutive Ones
 
 **Platform:** LeetCode  
 **Difficulty:** Easy  
