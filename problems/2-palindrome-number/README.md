@@ -2,7 +2,7 @@
 
 **Platform:** LeetCode  
 **Difficulty:** Medium  
-**Status:** Solved (2025-12-01)
+**Status:** Solved (2025-08-07)
 
 ## Problem link
 https://leetcode.com/problems/palindrome-number/
